@@ -74,5 +74,5 @@ The app makes use of Twilio's SMS webhook and REST API.
 
 When an SMS message is sent to the Twilio number, Twilio sends a POST request to the webhook ([see here](https://www.twilio.com/docs/sms/tutorials/how-to-receive-and-reply-python#what-is-a-webhook)).
 
-The app logic will use Twilio's REST Client to send SMS messages to recipients instead of returning a TwiML response.
+The app logic will use Twilio's REST Client to send SMS messages to recipients (instead of using TwiML).
 
