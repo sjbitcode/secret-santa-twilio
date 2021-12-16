@@ -1,7 +1,11 @@
 <h1 align="center">
  🎄✨ Secret Santa Twilio ✨📱
 </h1>
-<p align="center">A contactless Secret Santa game built with Python, Flask and Twilio!</p>
+<p align="center">
+ <img src="https://app.travis-ci.com/sjbitcode/secret-santa-twilio.svg?token=4UzxXQyJwLbgZCLsZXpp&branch=master">
+ <br> 
+ A contactless Secret Santa game built with Python, Flask and Twilio!
+</p>
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/6550256/146325698-5ea5df4a-274f-44aa-be61-f0bb8a8766bb.gif" alt="demo gif"/>
