@@ -3,6 +3,11 @@
 </h1>
 <p align="center">
  <img src="https://app.travis-ci.com/sjbitcode/secret-santa-twilio.svg?token=4UzxXQyJwLbgZCLsZXpp&branch=master">
+ 
+ <a href="https://codecov.io/gh/sjbitcode/secret-santa-twilio">
+  <img src="https://codecov.io/gh/sjbitcode/secret-santa-twilio/branch/master/graph/badge.svg?token=SKhGDTtwN5"/>
+ </a>
+ 
  <br> 
  A contactless Secret Santa game built with Python, Flask and Twilio!
 </p>

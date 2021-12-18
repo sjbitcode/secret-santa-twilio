@@ -80,7 +80,7 @@ test-twilio: $(VENV)/bin/activate
 ## Run tests with coverage
 test: $(VENV)/bin/activate
 	@echo "\033[1;37m---- Running unittests 🧪✨ ---- \033[0m\n"
-	$(BIN)/coverage run -m unittest discover && $(BIN)/coverage report
+	$(BIN)/coverage run -m unittest discover && $(BIN)/coverage report && $(BIN)/coverage xml
 
 
 ## Install step for Travis
